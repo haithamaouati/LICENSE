@@ -1,5 +1,10 @@
 # LICENSE
 If you have that feeling about your code...
+```
+When I wrote this, only God and I understood what I was doing.
+Now, only God knows.
+```
+...think no further and include this LICENSE to your project!
 
 ## WTFPL – Do What the Fuck You Want to Public License
 
